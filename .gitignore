@@ -1,0 +1,10 @@
+.DS_Store
+__pycache__/
+*.pyc
+.venv/
+venv/
+.vercel/
+.env
+.env.*
+*.mov
+*.MOV

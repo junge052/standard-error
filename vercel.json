@@ -1,0 +1,9 @@
+{
+  "$schema": "https://openapi.vercel.sh/vercel.json",
+  "framework": null,
+  "functions": {
+    "api/instance.py": {
+      "excludeFiles": "{images/**,images-graphics/**,mockups/**,PROTOTYPE 1-DOCUMENTATION/**}"
+    }
+  }
+}
